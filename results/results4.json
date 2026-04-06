@@ -1,0 +1,2299 @@
+[
+  {
+    "model": "gpt-3.5-turbo",
+    "density": "sparse",
+    "n_events": 30,
+    "original_accuracy": 0.67,
+    "n_failures_found": 37,
+    "n_consistent_errors": 33,
+    "n_sporadic_errors": 4,
+    "sporadic_rate": 0.10810810810810811,
+    "sequence_details": [
+      {
+        "sample_idx": 0,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 6,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 7,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 10,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 13,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 17,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 19,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 20,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 21,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 23,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 28,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          true
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 31,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 33,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 37,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 38,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 39,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 41,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 43,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 49,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 50,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          false,
+          false
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 51,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 53,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 58,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 59,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 61,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 62,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 64,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 69,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 72,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 73,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 74,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          true,
+          true
+        ],
+        "n_correct_reruns": 2,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 75,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          true,
+          false
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 81,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 83,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 85,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 94,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 95,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      }
+    ]
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "density": "sparse",
+    "n_events": 50,
+    "original_accuracy": 0.62,
+    "n_failures_found": 35,
+    "n_consistent_errors": 33,
+    "n_sporadic_errors": 2,
+    "sporadic_rate": 0.05714285714285714,
+    "sequence_details": [
+      {
+        "sample_idx": 0,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 1,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 4,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 5,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 9,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 15,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 16,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 23,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 27,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 29,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          true,
+          false
+        ],
+        "n_correct_reruns": 2,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 31,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 34,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 35,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 37,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 39,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 45,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 46,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 47,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 53,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 54,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 55,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          true,
+          true
+        ],
+        "n_correct_reruns": 2,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 56,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 59,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 60,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 72,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 73,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 74,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 78,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 85,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 89,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 90,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 91,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 93,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 94,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 98,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      }
+    ]
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "density": "dense",
+    "n_events": 30,
+    "original_accuracy": 0.53,
+    "n_failures_found": 53,
+    "n_consistent_errors": 49,
+    "n_sporadic_errors": 4,
+    "sporadic_rate": 0.07547169811320754,
+    "sequence_details": [
+      {
+        "sample_idx": 1,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 3,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 5,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 6,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 7,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 10,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          true,
+          false
+        ],
+        "n_correct_reruns": 2,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 12,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 17,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 19,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 20,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 21,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          false,
+          false
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 22,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 24,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 25,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 26,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 29,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 30,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 31,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 33,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 35,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 38,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          true
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 40,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 44,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 48,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 50,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 51,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 52,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 54,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 55,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 56,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          true,
+          false
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 57,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 59,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 60,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 62,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 63,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 68,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 69,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 70,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 71,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 74,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 77,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 78,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 80,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 83,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 86,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 87,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 89,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 90,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 91,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 92,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 95,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 98,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 99,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      }
+    ]
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "density": "dense",
+    "n_events": 50,
+    "original_accuracy": 0.51,
+    "n_failures_found": 48,
+    "n_consistent_errors": 46,
+    "n_sporadic_errors": 2,
+    "sporadic_rate": 0.041666666666666664,
+    "sequence_details": [
+      {
+        "sample_idx": 2,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          true,
+          true
+        ],
+        "n_correct_reruns": 3,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 3,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 4,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 5,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 6,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 7,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 9,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 12,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 13,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 14,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 16,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 17,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 22,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 24,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 26,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 27,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 28,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 39,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 42,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 43,
+        "gold": "OFF",
+        "first_pred": "ON",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 44,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 47,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 49,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 51,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 53,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 55,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          true,
+          false,
+          false
+        ],
+        "n_correct_reruns": 1,
+        "consistent_error": false
+      },
+      {
+        "sample_idx": 59,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 62,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 64,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 65,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 66,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 70,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 71,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 73,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 74,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 75,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 78,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 81,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 86,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 87,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 88,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 89,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 90,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 91,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 95,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 96,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 98,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      },
+      {
+        "sample_idx": 99,
+        "gold": "ON",
+        "first_pred": "OFF",
+        "first_correct": false,
+        "rerun_correct": [
+          false,
+          false,
+          false
+        ],
+        "n_correct_reruns": 0,
+        "consistent_error": true
+      }
+    ]
+  }
+]
